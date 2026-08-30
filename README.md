@@ -30,7 +30,7 @@ Source: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 - Multiple Linear Regression performs better than Simple Linear Regression (higher R2)
 
 ## Files in this repo
-- `Bike_Sharing_Assignment2_BTECH25174_24.ipynb` — main code notebook
+- `BTECH2517424Bike.ipynb` — main code notebook
 - `hour.csv` — dataset
 - `theory_notes.md` — formulas and references used
 
