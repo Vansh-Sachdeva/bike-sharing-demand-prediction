@@ -24,4 +24,4 @@ Update rule: b = b - learning_rate * gradient
 ## References
 - UCI Machine Learning Repository — Bike Sharing Dataset
 - scikit-learn documentation (LinearRegression, metrics)
-- Class notes / lecture slides on Linear Regression
+- Class notes 
