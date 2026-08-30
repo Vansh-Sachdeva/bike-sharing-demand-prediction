@@ -4,7 +4,7 @@
 **Assignment:** Linear Regression Series
 
 ## Colab Notebook
-👉 [Open in Google Colab](https://colab.research.google.com/drive/1owQP7zT3sFNGFTt6EyrNhROUBbjetIF6?usp=sharing)
+[Open in Google Colab](https://colab.research.google.com/drive/1owQP7zT3sFNGFTt6EyrNhROUBbjetIF6?usp=sharing)
 
 ## Problem Statement
 A city bike-sharing company needs to predict the number of bicycles that will be rented
